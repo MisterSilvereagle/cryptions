@@ -1,0 +1,36 @@
+Erklärvideo B-Sprache (Geheimsprache)                      |
+                                                           |
+Erklärvideo Four-Square Chiffre                            | check
+                                                           |
+Erklärvideo Bifid-Chiffre                                  | check
+                                                           |
+Erklärvideo Skytale                                        |
+                                                           |
+Erklärvideo Code knacken                                   |
+                                                           |
+Erklärvideo Vigenère-Verschlüsselung                       |
+                                                           |
+Erklärvideo ADFGX Verschlüsselung Einsteiger               | check
+                                                           |
+Erklärvideo Enigma - Bastle deine eigene Pringles-Enigma   |
+                                                           |
+Erklärvideo ADFGX Verschlüsselung Fortgeschrittene         |
+                                                           |
+Erklärvideo Playfair-Verschlüsselung                       | check
+                                                           |
+Erklärvideo Trithemius-Chiffre                             |
+                                                           |
+Erklärvideo Postkarten-Verschlüsselung                     |
+                                                           |
+Erklärvideo Bilderverschlüsselung (Steganographie)         |
+                                                           |
+Erklärvideo Polybios-Chiffre                               | check
+                                                           |
+Erklärvideo Gartenzaun-Verschlüsselung                     |
+                                                           |
+Erklärvideo Cäsar-Verschlüsselung                          | semi-check
+                                                           |
+Erklärvideo Internationales Flaggenalphabet                |
+                                                           |
+Erklärvideo Freimaurercode                                 |
+                                                           |

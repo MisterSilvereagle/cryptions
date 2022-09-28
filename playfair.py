@@ -93,10 +93,8 @@ class Playfair:
 
 if __name__ == '__main__':
     inpkey = input('Please type the key: ')
-    inpmeth = input('Do you want to en-[0] or decode[1]? ')
-    while not (inpmeth == '1' or inpmeth == '0'):
+    while not (inpmeth := input('Do you want to en-[0] or decode[1]? ') in ['0', '1']):
         print('This was neither 0 nor 1!')
-        inpmeth = input('Do you want to en-[0] or decode[1]? ')
     inptext = input('Please type the text to en- or decode: ')
 
     converter = Playfair(inpkey, inpmeth, inptext)
